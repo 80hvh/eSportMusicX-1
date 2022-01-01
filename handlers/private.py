@@ -17,13 +17,13 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Sanki_Owner")
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/hh83h")
                   ],[
                     InlineKeyboardButton(
-                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/AboutHexor"
+                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/hh83h"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/eSportClan"
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/hh83h"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -41,7 +41,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/AboutHexor")
+                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/hh83h")
                 ]
             ]
         )
